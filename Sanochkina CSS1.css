@@ -109,7 +109,35 @@ html, body {
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://sites.google.com/site/konoplevmedia/coverstart2.png");
+ background-image: url("https://github.com/Olesya04/study-/blob/main/фото1.png");
+ background-attachment: fixed;
+ background-size: cover;
+ -moz-background-size: cover;
+ -webkit-background-size: cover;
+ background-repeat: no-repeat;
+ background-position: top center;
+}
+#landing .parallax-one {
+ padding-top: 200px;
+ padding-bottom: 200px;
+ overflow: hidden;
+ position: relative;
+ width: 100%;
+ background-image: url("https://github.com/Olesya04/study-/blob/main/фото2.png");
+ background-attachment: fixed;
+ background-size: cover;
+ -moz-background-size: cover;
+ -webkit-background-size: cover;
+ background-repeat: no-repeat;
+ background-position: top center;
+}
+#landing .parallax-one {
+ padding-top: 200px;
+ padding-bottom: 200px;
+ overflow: hidden;
+ position: relative;
+ width: 100%;
+ background-image: url("https://github.com/Olesya04/study-/blob/main/фото3.png");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
